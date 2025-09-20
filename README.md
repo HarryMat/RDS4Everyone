@@ -3,13 +3,7 @@
 This program is developed under the Jupyter Lab enviroments.
 Python3 and required import modules are below.
 
-import cv2
-import glob
-import matplotlib.image as mpimg
-import matplotlib.pyplot as plt
-import math 
-import numpy as np
-import os
+cv2, glob, matplotlib, math, numpy, and os.
 
 ## How it works
 prepere image file of single image random dot stereogram (RDS) aka autogram or Magic Eye. jpg, png etc. opencv aceptable image format is ok.
